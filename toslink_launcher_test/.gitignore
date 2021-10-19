@@ -1,0 +1,3 @@
+# Don't commit KiCad's ginormous cache files
+toslink_launcher_test-cache.lib
+fp-info-cache
