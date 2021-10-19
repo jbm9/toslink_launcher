@@ -52,6 +52,8 @@ space-efficient footprint…)
 
 ## The KiCad demo project
 
+![KiCad's 3D view of the test PCB](imgs/test_pcb.jpg)
+
 There is a KiCad demo project in toslink_launcher_test.  Opening this
 up in KiCad, then going to pcbnew, you should be able to do a 3D view
 and see the parts rendered there.
